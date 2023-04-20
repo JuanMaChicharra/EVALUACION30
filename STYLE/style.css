@@ -1,0 +1,70 @@
+
+
+body{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkHGNoob6ISY8DyGnrpmc6isyex92GP-WEyg&usqp=CAU);
+    color: black;
+
+}
+
+#wrapper{
+    text-align: center;
+}
+
+
+#galeria{
+    text-align: center;
+
+}
+
+nav{
+    text-align: center;
+    background-color: black;
+   width: 100%;
+}
+
+.menu{
+    margin: 10;
+
+    width: 50%;
+    display: inline-block;
+    
+}
+
+
+img{
+    margin-top: 10px;
+    height: 550px;
+    width: 800px;
+    align-self: center;
+    
+}
+
+#CV{
+    color: black;
+}
+
+#textoCV{
+    color: white;
+    margin-top: 50px;
+    text-align: justify;
+}
+
+#titulo{
+    text-align: center;
+}
+
+#s{
+    color: rgba(38, 201, 38, 0.807);
+    text-align: center;
+}
+
+#r{
+    color: rgba(38, 201, 38, 0.807);
+    text-align: center;
+}
+
+#a{
+    color: rgba(38, 201, 38, 0.807);
+    text-align: center;
+}
+
